@@ -60,5 +60,5 @@ Event Sourcing is a powerful pattern used in complex systems requiring complete 
 
 ## Reference Link
 
-event store link:https://www.eventstore.com/event-sourcing#:~:text=Event%20Sourcing%20is%20an%20architectural,effective%20architecture%20for%20their%20needs.
+event store link:https://www.eventstore.com/event-sourcing#:~:text=Event%20Sourcing%20is%20an%20architectural,effective%20architecture%20for%20their%20needs.<br/>
 baeldung link : https://www.baeldung.com/cqrs-event-sourcing-java

@@ -56,3 +56,8 @@ Event Sourcing is an architectural design pattern that stores data in an append-
 ## Conclusion
 
 Event Sourcing is a powerful pattern used in complex systems requiring complete historical tracking and auditability. While it introduces complexity, it offers unparalleled benefits in terms of historical data and system resilience.
+
+
+## Reference Link
+
+link:https://www.eventstore.com/event-sourcing#:~:text=Event%20Sourcing%20is%20an%20architectural,effective%20architecture%20for%20their%20needs.

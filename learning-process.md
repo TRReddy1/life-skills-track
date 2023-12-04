@@ -16,9 +16,9 @@ The Feynman Technique is a learning method where you simplify and teach a concep
 
 ### What are active and diffused modes of thinking?
 
-Active thinking involves focused, deliberate concentration on a specific task or idea, while diffused thinking occurs in a more relaxed, unfocused state where the mind can make broader connections and associations between various concepts
+Active thinking involves focused, deliberate concentration on a specific task or idea, while diffused thinking occurs in a more relaxed, unfocused state where the mind can make broader connections and associations between various concepts.
 
-### According to the video, what are the steps to take when approaching a new topic? Only mention the points
+### According to the video, what are the steps to take when approaching a new topic? Only mention the points?
 
 **Prewriting:** Before you start writing, decide what you’ll write about and conduct necessary research. Narrow down your topic, explore relevant sources, and take notes1.
 
@@ -32,12 +32,12 @@ Active thinking involves focused, deliberate concentration on a specific task or
 
 ### What are some of the actions you can take going forward to improve your learning process?
 
-**Set Clear Goals:** Define specific learning objectives. Understand what you want to achieve and break it down into smaller milestones.
+**Set Clear Goals:** Define specific learning objectives. Understand what i want to achieve and break it down into smaller milestones.
 
 **Diversify Resources:** Explore various learning materials such as books, online courses, podcasts, and videos. Different formats can provide fresh perspectives.
 
-**Review and Reflect:** Regularly revisit what you’ve learned. Reflect on your progress, identify areas for improvement, and adjust your approach accordingly.
+**Review and Reflect:** Regularly revisit what i’ve learned. Reflect on my progress, identify areas for improvement, and adjust my approach accordingly.
 
-**Stay Curious:** Cultivate curiosity. Explore related topics beyond your immediate focus. Curiosity fuels continuous learning.
+**Stay Curious:** Cultivate curiosity. Explore related topics beyond my immediate focus. Curiosity fuels continuous learning.
 
 **Time Management:** Allocate dedicated time for learning. Consistency matters more than cramming.

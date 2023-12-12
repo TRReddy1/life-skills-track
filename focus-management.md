@@ -17,7 +17,7 @@ Cal Newport argues that deep work is crucial in the knowledge work sector becaus
 
 **Pomodoro Technique:** Use the Pomodoro Technique or similar methods to work in focused intervals (e.g., 25 minutes of work followed by a 5-minute break). Adjust the intervals based on your concentration span.\
 **Prioritize Tasks:** Identify the most critical tasks that require deep focus and tackle them during your designated deep work periods.
-Practice Regular Breaks: Integrate short breaks between deep work sessions. Use this time to relax, stretch, or recharge before diving back into focused work.\
+**Practice Regular Breaks:** Integrate short breaks between deep work sessions. Use this time to relax, stretch, or recharge before diving back into focused work.\
 **Set Realistic Goals:** Define achievable goals for each deep work session. Clear objectives can help maintain focus and provide a sense of accomplishment.\
 **Manage Technology:** Turn off notifications on your phone and computer during deep work sessions. Consider using apps or tools that block distracting websites if needed.\
 **Reflect and Adjust:** Periodically review your deep work practices. Identify what's working well and where improvements can be made. Adapt your routine accordingly.\
